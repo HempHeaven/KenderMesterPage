@@ -3,7 +3,7 @@
     <title>KenderMester</title>
     <link href="https://kendermester.com/feed.xml" rel="self" />
     <link href="https://kendermester.com" />
-    <updated>2024-10-02T00:20:20+02:00</updated>
+    <updated>2024-10-02T01:38:20+02:00</updated>
     <author>
         <name>KenderMester</name>
     </author>
@@ -37,6 +37,7 @@
         <link href="https://kendermester.com/thc-tetrahidrokannabinol/"/>
         <id>https://kendermester.com/thc-tetrahidrokannabinol/</id>
         <media:content url="https://kendermester.com/media/posts/3/thc-tetrahidrokannabinol-kannabisz-teljes-leiras.webp" medium="image" />
+            <category term="THC"/>
 
         <updated>2024-07-31T22:11:43+02:00</updated>
             <summary>
@@ -90,6 +91,7 @@
         </author>
         <link href="https://kendermester.com/cbd-kannabidiol/"/>
         <id>https://kendermester.com/cbd-kannabidiol/</id>
+            <category term="CBD"/>
 
         <updated>2024-07-31T22:09:56+02:00</updated>
             <summary>
@@ -144,6 +146,7 @@
         <link href="https://kendermester.com/kannabisz/"/>
         <id>https://kendermester.com/kannabisz/</id>
         <media:content url="https://kendermester.com/media/posts/1/kannabisz-kender-felhasznalas-tortenet-fogyasztas-eredet-2.webp" medium="image" />
+            <category term="THC"/>
 
         <updated>2024-07-31T21:46:05+02:00</updated>
             <summary>

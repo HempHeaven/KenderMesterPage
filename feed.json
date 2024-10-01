@@ -35,9 +35,10 @@
                 "name": "KenderMester"
             },
             "tags": [
+                   "THC"
             ],
             "date_published": "2024-07-31T22:11:43+02:00",
-            "date_modified": "2024-08-04T13:33:21+02:00"
+            "date_modified": "2024-10-02T01:34:35+02:00"
         },
         {
             "id": "https://kendermester.com/cbd-kannabidiol/",
@@ -49,9 +50,10 @@
                 "name": "KenderMester"
             },
             "tags": [
+                   "CBD"
             ],
             "date_published": "2024-07-31T22:09:56+02:00",
-            "date_modified": "2024-07-31T22:09:56+02:00"
+            "date_modified": "2024-10-02T01:33:45+02:00"
         },
         {
             "id": "https://kendermester.com/kannabisz/",
@@ -64,9 +66,10 @@
                 "name": "KenderMester"
             },
             "tags": [
+                   "THC"
             ],
             "date_published": "2024-07-31T21:46:05+02:00",
-            "date_modified": "2024-10-01T23:10:05+02:00"
+            "date_modified": "2024-10-02T01:38:20+02:00"
         }
     ]
 }
